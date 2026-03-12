@@ -1,0 +1,12 @@
+{
+  "context_servers": {
+    "meta-docs": {
+      "settings": {
+        "url": "https://meta.tiagoandrepro.com.br/mcp",
+        "headers": {
+          "Authorization": "Bearer YOUR_API_KEY"
+        }
+      }
+    }
+  }
+}

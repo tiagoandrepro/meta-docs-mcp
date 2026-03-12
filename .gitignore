@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Build & tooling
+.wrangler/
+.claude/
+.idea/
+*.log
+.DS_Store
+
+# Source code (private)
+src/
+scripts/
+supabase/
+package.json
+package-lock.json
+tsconfig.json
+wrangler.toml
+.env.example
+
+# Media
+*.png
+*.jpg
+*.jpeg
+*.gif
